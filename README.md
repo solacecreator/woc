@@ -1,3 +1,3 @@
 # Whispers of Caring 
 Lucifer and Victoria's Journey...
-https://github.com/solacecreator.github.io/woc/Homepage.html
+https://github.com/solacecreator/woc
