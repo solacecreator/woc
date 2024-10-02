@@ -1,1 +1,3 @@
-# woc
+# Whispers of Caring 
+Lucifer and Victoria's Journey...
+https://github.com/solacecreator/woc.git
